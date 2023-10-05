@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:animated_switch/animated_switch.dart';
 import 'package:flutter/material.dart';
 import 'package:yes_no_app/components/filled_button.dart';
